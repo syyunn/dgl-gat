@@ -55,7 +55,13 @@ for epoch in range(epochs):
         )
     )
 
-print(net)
+# print(net)
+from dgl.data.utils import save_graphs
+from time import gmtime, strftime
+time_marker = strftime("%Y%m%d%H%M%S", gmtime())
+model_name = "GAT_"
+graph_name = model_name + time_marker
+save_graphs(f"./{graph_name}.bin", g)
 
 if __name__ == "__main__":
     pass

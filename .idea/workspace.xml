@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="403e5b37-7b5d-4a07-82c0-1c79d5322370" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/train.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gnvsc2gxFfxVo9UfUUCgUFX6Hl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.data_utils">
+    <configuration name="data_utils" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dgl-gat" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_utils.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="graph" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dgl-gat" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dgl_tutorial" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dgl_tutorial/graph.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dgl-gat" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/smpl" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/smpl/model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dgl-gat" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/smpl" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/smpl/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dgl-gat" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.data_utils" />
+        <item itemvalue="Python.train" />
+        <item itemvalue="Python.train (1)" />
+        <item itemvalue="Python.graph" />
+        <item itemvalue="Python.model" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="403e5b37-7b5d-4a07-82c0-1c79d5322370" name="Default Changelist" comment="" />
+      <created>1598763378958</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598763378958</updated>
+      <workItem from="1598763380391" duration="16343000" />
+      <workItem from="1599551953697" duration="16080000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2540" y="312" key="FileChooserDialogImpl" timestamp="1598763531536">
+      <screen x="1792" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2540" y="312" key="FileChooserDialogImpl/1792.23.1920.1057/0.23.1792.1097@1792.23.1920.1057" timestamp="1598763531536" />
+    <state width="1878" height="381" key="GridCell.Tab.0.bottom" timestamp="1599708962828">
+      <screen x="0" y="23" width="1536" height="937" />
+    </state>
+    <state width="1878" height="381" key="GridCell.Tab.0.bottom/0.23.1536.937@0.23.1536.937" timestamp="1599708962828" />
+    <state width="1878" height="278" key="GridCell.Tab.0.bottom/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1599551994236" />
+    <state width="1878" height="408" key="GridCell.Tab.0.bottom/1792.23.1920.1057/0.0.1792.1120@1792.23.1920.1057" timestamp="1599558529346" />
+    <state width="1878" height="381" key="GridCell.Tab.0.bottom/1792.23.1920.1057/0.23.1792.1097@1792.23.1920.1057" timestamp="1599570079793" />
+    <state width="1878" height="381" key="GridCell.Tab.0.center" timestamp="1599708962827">
+      <screen x="0" y="23" width="1536" height="937" />
+    </state>
+    <state width="1878" height="381" key="GridCell.Tab.0.center/0.23.1536.937@0.23.1536.937" timestamp="1599708962827" />
+    <state width="1878" height="278" key="GridCell.Tab.0.center/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1599551994235" />
+    <state width="1878" height="408" key="GridCell.Tab.0.center/1792.23.1920.1057/0.0.1792.1120@1792.23.1920.1057" timestamp="1599558529345" />
+    <state width="1878" height="381" key="GridCell.Tab.0.center/1792.23.1920.1057/0.23.1792.1097@1792.23.1920.1057" timestamp="1599570079792" />
+    <state width="1878" height="381" key="GridCell.Tab.0.left" timestamp="1599708962827">
+      <screen x="0" y="23" width="1536" height="937" />
+    </state>
+    <state width="1878" height="381" key="GridCell.Tab.0.left/0.23.1536.937@0.23.1536.937" timestamp="1599708962827" />
+    <state width="1878" height="278" key="GridCell.Tab.0.left/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1599551994234" />
+    <state width="1878" height="408" key="GridCell.Tab.0.left/1792.23.1920.1057/0.0.1792.1120@1792.23.1920.1057" timestamp="1599558529344" />
+    <state width="1878" height="381" key="GridCell.Tab.0.left/1792.23.1920.1057/0.23.1792.1097@1792.23.1920.1057" timestamp="1599570079792" />
+    <state width="1878" height="381" key="GridCell.Tab.0.right" timestamp="1599708962828">
+      <screen x="0" y="23" width="1536" height="937" />
+    </state>
+    <state width="1878" height="381" key="GridCell.Tab.0.right/0.23.1536.937@0.23.1536.937" timestamp="1599708962828" />
+    <state width="1878" height="278" key="GridCell.Tab.0.right/1792.0.1920.1080/0.0.1792.1120@1792.0.1920.1080" timestamp="1599551994235" />
+    <state width="1878" height="408" key="GridCell.Tab.0.right/1792.23.1920.1057/0.0.1792.1120@1792.23.1920.1057" timestamp="1599558529346" />
+    <state width="1878" height="381" key="GridCell.Tab.0.right/1792.23.1920.1057/0.23.1792.1097@1792.23.1920.1057" timestamp="1599570079793" />
+    <state width="1878" height="381" key="GridCell.Tab.1.bottom" timestamp="1599708962829">
+      <screen x="0" y="23" width="1536" height="937" />
+    </state>
+    <state width="1878" height="381" key="GridCell.Tab.1.bottom/0.23.1536.937@0.23.1536.937" timestamp="1599708962829" />
+    <state width="1878" height="381" key="GridCell.Tab.1.bottom/1792.23.1920.1057/0.0.1792.1120@1792.23.1920.1057" timestamp="1599558246292" />
+    <state width="1878" height="381" key="GridCell.Tab.1.bottom/1792.23.1920.1057/0.23.1792.1097@1792.23.1920.1057" timestamp="1599570081545" />
+    <state width="1878" height="381" key="GridCell.Tab.1.center" timestamp="1599708962828">
+      <screen x="0" y="23" width="1536" height="937" />
+    </state>
+    <state width="1878" height="381" key="GridCell.Tab.1.center/0.23.1536.937@0.23.1536.937" timestamp="1599708962828" />
+    <state width="1878" height="381" key="GridCell.Tab.1.center/1792.23.1920.1057/0.0.1792.1120@1792.23.1920.1057" timestamp="1599558246291" />
+    <state width="1878" height="381" key="GridCell.Tab.1.center/1792.23.1920.1057/0.23.1792.1097@1792.23.1920.1057" timestamp="1599570081544" />
+    <state width="1878" height="381" key="GridCell.Tab.1.left" timestamp="1599708962828">
+      <screen x="0" y="23" width="1536" height="937" />
+    </state>
+    <state width="1878" height="381" key="GridCell.Tab.1.left/0.23.1536.937@0.23.1536.937" timestamp="1599708962828" />
+    <state width="1878" height="381" key="GridCell.Tab.1.left/1792.23.1920.1057/0.0.1792.1120@1792.23.1920.1057" timestamp="1599558246290" />
+    <state width="1878" height="381" key="GridCell.Tab.1.left/1792.23.1920.1057/0.23.1792.1097@1792.23.1920.1057" timestamp="1599570081543" />
+    <state width="1878" height="381" key="GridCell.Tab.1.right" timestamp="1599708962829">
+      <screen x="0" y="23" width="1536" height="937" />
+    </state>
+    <state width="1878" height="381" key="GridCell.Tab.1.right/0.23.1536.937@0.23.1536.937" timestamp="1599708962829" />
+    <state width="1878" height="381" key="GridCell.Tab.1.right/1792.23.1920.1057/0.0.1792.1120@1792.23.1920.1057" timestamp="1599558246291" />
+    <state width="1878" height="381" key="GridCell.Tab.1.right/1792.23.1920.1057/0.23.1792.1097@1792.23.1920.1057" timestamp="1599570081544" />
+    <state x="2261" y="190" key="SettingsEditor" timestamp="1598763537147">
+      <screen x="1792" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2261" y="190" key="SettingsEditor/1792.23.1920.1057/0.23.1792.1097@1792.23.1920.1057" timestamp="1598763537147" />
+    <state width="480" height="528" key="XDebugger.FullValuePopup" timestamp="1599562914577">
+      <screen x="1792" y="23" width="1920" height="1057" />
+    </state>
+    <state width="384" height="468" key="XDebugger.FullValuePopup/0.23.1536.937@0.23.1536.937" timestamp="1598777716218" />
+    <state width="480" height="528" key="XDebugger.FullValuePopup/1792.23.1920.1057/0.23.1792.1097@1792.23.1920.1057" timestamp="1599562914577" />
+    <state x="2375" y="169" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1599567408450">
+      <screen x="1792" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2375" y="169" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1792.23.1920.1057/0.23.1792.1097@1792.23.1920.1057" timestamp="1599567408450" />
+    <state x="2459" y="306" width="586" height="522" key="find.popup" timestamp="1599562052009">
+      <screen x="1792" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2459" y="306" width="586" height="522" key="find.popup/1792.23.1920.1057/0.0.1792.1120@1792.23.1920.1057" timestamp="1599558666616" />
+    <state x="2459" y="306" width="586" height="522" key="find.popup/1792.23.1920.1057/0.23.1792.1097@1792.23.1920.1057" timestamp="1599562052009" />
+    <state x="2417" y="258" width="670" height="676" key="search.everywhere.popup" timestamp="1599569203779">
+      <screen x="1792" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2417" y="258" width="670" height="676" key="search.everywhere.popup/1792.23.1920.1057/0.23.1792.1097@1792.23.1920.1057" timestamp="1599569203779" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/dgl_tutorial/graph.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/dgl_tutorial/graph.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data_utils.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data_utils.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data_utils.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data_utils.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/dgl_tutorial/graph.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model.py</url>
+          <line>62</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model.py</url>
+          <line>50</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model.py</url>
+          <line>75</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data_utils.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/dgl_gat$test.coverage" NAME="test Coverage Results" MODIFIED="1598772773408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/dgl_gat$gat.coverage" NAME="gat Coverage Results" MODIFIED="1598764010248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/dgl_gat$data_utils.coverage" NAME="data_utils Coverage Results" MODIFIED="1599570079703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/dgl_gat$train__1_.coverage" NAME="train (1) Coverage Results" MODIFIED="1599558529338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/smpl" />
+    <SUITE FILE_PATH="coverage/dgl_gat$viz.coverage" NAME="viz Coverage Results" MODIFIED="1598774668241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/dgl_gat$model.coverage" NAME="model Coverage Results" MODIFIED="1599557493206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/smpl" />
+    <SUITE FILE_PATH="coverage/dgl_gat$graph.coverage" NAME="graph Coverage Results" MODIFIED="1599557802160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dgl_tutorial" />
+    <SUITE FILE_PATH="coverage/dgl_gat$train.coverage" NAME="train Coverage Results" MODIFIED="1599569884794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
